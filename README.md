@@ -1,5 +1,5 @@
 
-Android BasicNotifications Sample
+Android BasicNotifications Sample with Android Auto (Just say AA)
 ===================================
 
 A basic app showing how to display events in the system's notification bar using
@@ -11,7 +11,7 @@ Introduction
 ------------
 
 The [Notification API][1] allows the app developers to display a message outside
-of your application's normal UI.
+of your application's normal UI. Plus Android Auto
 
 The class [Notification][2] was added in the Android 3.0 (API level 11), but this
 sample refers to the [NotificationCompat][3] class (part of the [support library][4]),
