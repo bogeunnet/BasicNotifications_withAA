@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/9a35007bf3917d70ad1f15c2d82ff799/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/dbc1a35459c6b1fbf341810c5fac22fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/35de763e7f2818a896d4e93f8d3a4b48/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/3e1cc052af9d918c05b8a7eef4cc3432/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bc1c285533a86c2103255ec02f4f0274/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/7b31de2083002b5fac53f31899ad1dda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/472d6d78824a66b998f4d11bcf4aee42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/81743e9fe0ff65bdbc317e85e65d9983/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/36df7d1d6983b9586bdc499a5a70936e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/a16268e6efadea04b27cbd7a262f085a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/9c05e75518ab37b8d094009e356533b0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/634096f8d467fa003a74cdafb3ec82ac/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:19:5-53
+	android:versionName
+		ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:21:5-30
+		INJECTED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:20:5-28
+		INJECTED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml
+application
+ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:25:5-38:19
+	android:label
+		ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:27:9-45
+	android:allowBackup
+		ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:29:9-40
+activity#com.example.android.basicnotifications.MainActivity
+ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:30:9-37:20
+	android:label
+		ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:31:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/9a35007bf3917d70ad1f15c2d82ff799/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/9a35007bf3917d70ad1f15c2d82ff799/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/dbc1a35459c6b1fbf341810c5fac22fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/dbc1a35459c6b1fbf341810c5fac22fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/35de763e7f2818a896d4e93f8d3a4b48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/35de763e7f2818a896d4e93f8d3a4b48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/3e1cc052af9d918c05b8a7eef4cc3432/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/3e1cc052af9d918c05b8a7eef4cc3432/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bc1c285533a86c2103255ec02f4f0274/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/bc1c285533a86c2103255ec02f4f0274/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/7b31de2083002b5fac53f31899ad1dda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/7b31de2083002b5fac53f31899ad1dda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/472d6d78824a66b998f4d11bcf4aee42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/472d6d78824a66b998f4d11bcf4aee42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/81743e9fe0ff65bdbc317e85e65d9983/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/81743e9fe0ff65bdbc317e85e65d9983/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/36df7d1d6983b9586bdc499a5a70936e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/36df7d1d6983b9586bdc499a5a70936e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/a16268e6efadea04b27cbd7a262f085a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/a16268e6efadea04b27cbd7a262f085a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/9c05e75518ab37b8d094009e356533b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/9c05e75518ab37b8d094009e356533b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/634096f8d467fa003a74cdafb3ec82ac/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/stevebkim/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/634096f8d467fa003a74cdafb3ec82ac/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/stevebkim/Desktop/Apps/BasicNotifications2/Application/src/main/AndroidManifest.xml
